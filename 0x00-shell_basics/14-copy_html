@@ -1,2 +1,2 @@
 #!/bin/bash
-cat *.html > all.html
+cp -u*.html..
