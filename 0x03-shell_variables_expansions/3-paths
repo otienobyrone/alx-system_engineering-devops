@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:ls -d ./* |wc
+PATH=ls -d ./* |wc
