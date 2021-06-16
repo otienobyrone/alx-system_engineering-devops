@@ -1,2 +1,3 @@
-git update-index --chmod=+x 
+#!/bin/bash
+grep -v "bin" /etc/passwd
 
