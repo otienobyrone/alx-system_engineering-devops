@@ -1,2 +1,2 @@
 #!/bin/bash
-$nyvnf ebg13="ge '[NFPVV.]'"
+tr 'n-za-mN-ZA-M' 'a-zA-Z'
